@@ -91,6 +91,7 @@ GEM
       activesupport (>= 3.1)
     parallel (1.10.0)
     public_suffix (2.0.5)
+    puma (3.11.3)
     rack (2.0.1)
     rails_12factor (0.0.3)
       rails_serve_static_assets
@@ -124,6 +125,7 @@ DEPENDENCIES
   middleman-sprockets (~> 4.1.0)
   middleman-syntax (~> 3.0.0)
   nokogiri (~> 1.6.8)
+  puma
   rack
   rails_12factor
   redcarpet (~> 3.4.0)
